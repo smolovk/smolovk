@@ -4,7 +4,7 @@
 ## Contacts
 * +38 095 886 56 94
 * smolov326@gmail.com
-* t.me/smolovk
+* [telegram](https://t.me/smolovk)
 
 ## Skills
 * Express.js
