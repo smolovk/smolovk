@@ -1,5 +1,5 @@
 # Smolov Kirill
-[codewars](https://www.codewars.com/users/smolovk/badges/small)
+![codewars](https://www.codewars.com/users/smolovk/badges/small)
 
 ## Contacts
 * +38 095 886 56 94
