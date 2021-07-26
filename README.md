@@ -3,7 +3,7 @@
 
 ## Contacts
 * +38 095 886 56 94
-* smolov.k.y@gmail.com
+* smolov326@gmail.com
 
 ## Skills
 * Express.js
