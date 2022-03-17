@@ -2,7 +2,6 @@
 ![codewars](https://www.codewars.com/users/smolovk/badges/small)
 
 ## Contacts
-* +38 095 886 56 94
 * smolov326@gmail.com
 * [telegram](https://t.me/smolovk)
 
