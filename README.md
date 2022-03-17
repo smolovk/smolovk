@@ -16,9 +16,11 @@
 * HTML, CSS
 * Git
 * Linux bash
+* Rust
 
 ## Projects
-* [SLang](https://github.com/smolovk/slang) - programming language prototype, made with node js
+* [slang](https://github.com/smolovk/slang) - programming language prototype, made with node js
+* [ladybug](https://github.com/ladybug-tracker) - issue tracking software
 
 ## Code examples
 * [Test task for yalantis school](https://github.com/smolovk/yalantis-test-task)
