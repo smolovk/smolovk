@@ -31,4 +31,3 @@
 ## Languages
 * English. Intermediate
 * Russian, Native
-* Ukrainian, Native
