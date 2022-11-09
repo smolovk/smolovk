@@ -7,6 +7,9 @@
 
 ## Skills
 * Node.js
+* Python
+* Telegram Bots
+* Discord bots
 * Typescript
 * Express.js
 * SQL
@@ -19,15 +22,14 @@
 
 ## Projects
 * [slang](https://github.com/smolovk/slang) - programming language prototype, made with node js
-* [ladybug](https://github.com/ladybug-tracker) - issue tracking software
-
-## Code examples
-* [Test task for yalantis school](https://github.com/smolovk/yalantis-test-task)
 
 ## Experience
 * Took part in the development of [urso](https://github.com/megbrimef/urso) game engine
 * Made [SLang](https://github.com/smolovk/slang) prototype as a pet project
+* Made discord and telegram bots for some web3 projects
+* Worked as a junior JS/Python developer in [AgroApp](https://agroapp.com.ua)
 
 ## Languages
-* English. Intermediate
+* English, Intermediate
+* Ukrainian, Native
 * Russian, Native
