@@ -3,6 +3,7 @@
 
 ## Contacts
 * smolov326@gmail.com
+* Discord: smolovk#6756
 * [telegram](https://t.me/smolovk)
 
 ## Skills
